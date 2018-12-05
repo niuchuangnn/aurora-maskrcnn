@@ -18,6 +18,12 @@ This project is based on [Mask R-CNN](https://github.com/facebookresearch/maskrc
    python3 setup.py build develop
    ```
 
+## Data
+Data will be available soon.
+
+## Models
+Models will be available soon.
+
 ## Demo
 Run demo:
 ```bash
@@ -43,10 +49,6 @@ It will output the following results:
 
 6. Intensity vs. zenith-angle curve:
 <img width="440" src="/demo_results/N20040116G050623_intensity.png"/>
-
-## Data
-
-## Models
 
 ## License
 
