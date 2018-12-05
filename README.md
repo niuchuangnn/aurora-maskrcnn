@@ -1,6 +1,6 @@
 # Instance Segmentation of Auroral Images for Automatic Computation of Arc Width
 
-By Chuang Niu, Qiuju Yang, Shenhan Ren, Haihong Hu, Desheng Han, Zejun Hu, and Jimin Liang.
+By Chuang Niu, Qiuju Yang, Shenghan Ren, Haihong Hu, Desheng Han, Zejun Hu, and Jimin Liang.
 
 ## Introduction
 A fully automatic method for computing aurora arc width based on Marsk R-CNN is implemented in this project,
