@@ -6,7 +6,7 @@ By Chuang Niu, Qiuju Yang, Shenghan Ren, Haihong Hu, Desheng Han, Zejun Hu, and 
 A fully automatic method for computing aurora arc width based on Marsk R-CNN is implemented in this project,
 and the related paper is submitted to GRSL. More details will be described.
 
-## Installation
+## Installation (Tested on Ubuntu 16.04)
 
 This project is based on [Mask R-CNN](https://github.com/facebookresearch/maskrcnn-benchmark),
 [PyTorch 1.0](https://pytorch.org/), and Python 3.5.
