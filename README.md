@@ -13,8 +13,11 @@ This project is based on [Mask R-CNN](https://github.com/facebookresearch/maskrc
 
 1. Install the [Mask R-CNN benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
 2. Replace the maskrcnn-benchmark with the aurora-maskrcnn in this project.
+3. '''bash 
+   '''
 
 ## Demo
+
 
 ## Data
 
