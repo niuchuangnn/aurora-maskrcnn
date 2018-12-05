@@ -27,6 +27,7 @@ Models will be available soon.
 ## Demo
 Run demo:
 ```bash
+   git clone https://github.com/niuchuangnn/aurora-maskrcnn.git
    cd ~/aurora-maskrcnn
    python3 ./Aurora/demo.py
 ```
