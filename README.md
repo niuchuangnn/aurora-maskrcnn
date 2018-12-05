@@ -19,6 +19,15 @@ This project is based on [Mask R-CNN](https://github.com/facebookresearch/maskrc
    ```
 
 ## Demo
+Run demo:
+```bash
+   cd ~/aurora-maskrcnn
+   python3 ./Aurora/demo.py
+```
+It will output the following results:
+
+1. Original image:
+![alt text](demo_results/N20040114G105203.png "from http://cocodataset.org/#explore?id=345434")
 
 
 ## Data
