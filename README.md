@@ -27,7 +27,7 @@ Run demo:
 It will output the following results:
 
 1. Original image:
-![alt text](/demo_results/N20040116G050623.png "from test dataset")
+![alt text](/demo_results/N20040116G050623.png width="100" "from test dataset")
 
 2. Detection results of one-stage inference process:
 ![alt text](/demo_results/N20040116G050623_one_stage.png "from test dataset")
