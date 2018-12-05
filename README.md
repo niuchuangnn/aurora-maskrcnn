@@ -29,8 +29,14 @@ It will output the following results:
 1. Original image:
 ![alt text](/demo_results/N20040116G050623.png "from test dataset")
 
-1. Detection results of one-stage:
+2. Detection results of one-stage inference process:
 ![alt text](/demo_results/N20040116G050623_one_stage.png "from test dataset")
+
+3. Detection results of rotated image:
+![alt text](/demo_results/N20040116G050623_two_stage_rotation.png "from test dataset")
+
+4. Detection results of two-stage inference process:
+![alt text](/demo_results/N20040116G050623_two_stage.png "from test dataset")
 
 ## Data
 
