@@ -30,19 +30,19 @@ It will output the following results:
 <img width="440" src="/demo_results/N20040116G050623.png"/>
 
 2. Detection results of one-stage inference process:
-![alt text](/demo_results/N20040116G050623_one_stage.png "from test dataset")
+<img width="440" src="/demo_results/N20040116G050623_one_stage.png"/>
 
 3. Detection results of rotated image:
-![alt text](/demo_results/N20040116G050623_two_stage.png "from test dataset")
+<img width="440" src="/demo_results/N20040116G050623_two_stage.png"/>
 
 4. Detection results of two-stage inference process:
-![alt text](/demo_results/N20040116G050623_two_stage_rotation.png "from test dataset")
+<img width="440" src="/demo_results/N20040116G050623_two_stage_rotation.png"/>
 
 5. Predicted normal of aurora arcs:
-![alt text](/demo_results/N20040116G050623_normal.png "from test dataset")
+<img width="440" src="/demo_results/N20040116G050623_normal.png"/>
 
 6. Intensity vs. zenith-angle curve:
-![alt text](/demo_results/N20040116G050623_intensity.png "from test dataset")
+<img width="440" src="/demo_results/N20040116G050623_intensity.png"/>
 
 ## Data
 
