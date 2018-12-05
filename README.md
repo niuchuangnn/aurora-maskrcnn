@@ -3,7 +3,7 @@
 By Chuang Niu, Qiuju Yang, Shenghan Ren, Haihong Hu, Desheng Han, Zejun Hu, and Jimin Liang.
 
 ## Introduction
-A fully automatic method for computing aurora arc width based on Marsk R-CNN is implemented in this project,
+A fully automatic method for computing auroral arc width based on Marsk R-CNN is implemented in this project,
 and the related paper is submitted to GRSL. More details will be described.
 
 ## Installation (Tested on Ubuntu 16.04)
