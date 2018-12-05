@@ -27,8 +27,10 @@ Run demo:
 It will output the following results:
 
 1. Original image:
-![alt text](demo_results/N20040114G105203.png "from http://cocodataset.org/#explore?id=345434")
+![alt text](/demo_results/N20040116G050623.png "from test dataset")
 
+1. Detection results of one-stage:
+![alt text](/demo_results/N20040116G050623_one_stage.png "from test dataset")
 
 ## Data
 
