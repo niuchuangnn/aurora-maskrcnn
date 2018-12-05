@@ -42,7 +42,7 @@ It will output the following results:
 ![alt text](/demo_results/N20040116G050623_normal.png "from test dataset")
 
 6. Intensity vs. zenith-angle curve:
-![alt text](/demo_results/N20040116G050623_two_stage_intensity.png "from test dataset")
+![alt text](/demo_results/N20040116G050623_intensity.png "from test dataset")
 
 ## Data
 
